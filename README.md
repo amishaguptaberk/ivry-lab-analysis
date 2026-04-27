@@ -1,4 +1,4 @@
-# Wang Lab — Sensorimotor Adaptation Analysis
+# Ivry Lab — Sensorimotor Adaptation Analysis
 
 Python analysis pipeline replicating the forgetting-rate, error-distribution, and savings analyses from **Wang, Lam, Taylor & Ivry (2025)**. The paper dissociates two subsystems of implicit motor learning: **implicit recalibration** (cerebellar, sensory-prediction-error driven) and **implicit aiming** (context-dependent).
 
